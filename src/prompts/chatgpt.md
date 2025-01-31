@@ -5,14 +5,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | você é um roteirista de um podcast focado em tecnologia que fala sobre novas tecnologias blockchain e voce precisa criar 5 exemplos de título para este podcast, acompanhado de um subtitulo.
-{REGRAS}
-> o título deve ser enxuto
-> o título deve conter algo relacionado à tecnologia blockchain
-> o título deve ter alguma referencia no meio geek/nerd
-> o tituolo deve ser facilmente relacionado ao tema do podcast
-{REGRAS NEGATIVAS}
-> o titulo não deve conter palavras em inglês para melhor entendimento da população|
+|  título  | você é um roteirista de um podcast focado em tecnologia que fala sobre novas tecnologias blockchain e voce precisa criar 5 exemplos de título para este podcast, acompanhado de um subtitulo. {REGRAS} o título deve ser enxuto, o título deve conter algo relacionado à tecnologia blockchain, o título deve ter alguma referencia no meio geek/nerd, o titulo deve ser facilmente relacionado ao tema do podcast {REGRAS NEGATIVAS} o titulo não deve conter palavras em inglês para melhor entendimento da população|
 | conteúdo | Você ainda é roteirista de podcast e vamos criar um roteiro de um podcast de tecnologia, focado em blockchain cujo o nome é "O Código Satoshi – 'Segredos, avanços e curiosidades sobre a tecnologia blockchain.'" e tem foco em blockchain com o publico alvo de iniciantes em blockchain
 O formato do roteiro deve ser:
 [INTRODUÇÃO]
